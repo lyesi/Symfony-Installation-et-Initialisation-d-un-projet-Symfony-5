@@ -1,0 +1,9 @@
+body {
+    background-color: green;
+}
+
+.cat {
+    width: 500px;
+    height: 600px;
+    border: solid 1px tomato;
+}
